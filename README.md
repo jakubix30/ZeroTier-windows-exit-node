@@ -10,6 +10,7 @@ Tutorial how to create ZeroTier VPN Exit Node on windows
 1. Go to Properties -> Sharing Tab
 1. Enable Allow other network users to connect through this computer's Internet connection, and choose the ZeroTier network interface.
 1. Reset Zerotier network interface
+2. fix ip address automaticly set to your local network
 1. Log in to ZeroTier Central
 1. Add Routes
 1. Destination `0.0.0.0/0`
